@@ -1,0 +1,10 @@
+GET localhost:5001
+
+###
+GET https://localhost:5001
+
+###
+@price = 10
+
+GET localhost:5001/another/?price={{price}}
+Content-Type: application/json
