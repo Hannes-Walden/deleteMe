@@ -8,7 +8,7 @@
             "name": "launch deleteMe",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+            "projectPath": "${workspaceFolder}/deleteMe.csproj"
         }
     ]
 }
